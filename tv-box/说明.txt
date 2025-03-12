@@ -1,0 +1,5 @@
+数据源文件URL：https://gitee.com/xm-cqj/tv/raw/master/tv-box/data-source.txt
+
+EPG源URL：http://diyp1.112114.xyz/
+
+直播源文件URL：https://gitee.com/xm-cqj/tv/raw/master/tv-box/live-source

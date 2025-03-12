@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="never">
+    <title>在线视频播放器</title>
+    <meta name="viewport" content="width=device-width, inicial-scale=1.0" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/hls.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.getScript('js/index.js')
+        })
+    </script>
+</head>
+
+<body style="display: none;">
+    <div class="container mb-4 mt-4">
+        <h2 class="mb-3">在线视频播放器</h2>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <button class="btn btn-dark" id="select">M3U8</button>
+            </div>
+            <input type="text" class="form-control border-dark" placeholder="请输入M3U8视频链接" id="url" />
+            <div class="input-group-append">
+                <button class="btn btn-dark" id="play">播放</button>
+            </div>
+        </div>
+        <div id="videoBox">
+            <video class="mt-2 rounded" controls="controls" width="100%"></video>
+        </div>
+        <div class="text-secondary mt-2"></div>
+    </div>
+</body>
+
+</html>

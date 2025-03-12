@@ -1,0 +1,827 @@
+[
+  {
+    "typename": "轮播频道",
+    "name": "甄子丹(metshop)",
+    "url": "https://live.metshop.top/huya/11352935"
+  }, 
+  {
+    "typename": "轮播频道",
+    "name": "甄子丹(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352935"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "甄子丹(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352935"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "雪中悍刀行(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11336592"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "雪中悍刀行(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11336592"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_星爷(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342412"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_星爷(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342412"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_英叔(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342421"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_英叔(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342421"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_发哥(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342387"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_发哥(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342387"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_成龙(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342386"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_成龙(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342386"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_王晶(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602058"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_王晶(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602058"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_沈腾(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11601968"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_沈腾(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11601968"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_黄渤(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352876"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_黄渤(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352876"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_强森(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059581"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_强森(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059581"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_漫威(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602034"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_漫威(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602034"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_宇宙(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342428"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_宇宙(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342428"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_怪兽(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059577"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_怪兽(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059577"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_武侠(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342427"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_武侠(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342427"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_警匪(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352886"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_警匪(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352886"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_罪犯(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352962"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_罪犯(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352962"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_枪战(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059579"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_枪战(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059579"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_海盗(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059595"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_海盗(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059595"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_赛车(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11279247"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_赛车(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11279247"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_推荐(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602041"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_推荐(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602041"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_救援(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059594"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_救援(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059594"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_热血(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352934"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_热血(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352934"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_盗墓(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059552"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_盗墓(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059552"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_贺岁(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11601971"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_贺岁(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11601971"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_玄幻(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342414"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_玄幻(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342414"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_谍战(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059585"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_谍战(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059585"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_战争(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059592"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_战争(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059592"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_喜剧(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352877"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_喜剧(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352877"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_港片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602043"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_港片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602043"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_国产(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352973"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_国产(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352973"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_周星星(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11336587"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_周星星(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11336587"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_李连杰(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342390"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_李连杰(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342390"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_洪金宝(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11279251"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_洪金宝(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11279251"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_梁家辉(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342429"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_梁家辉(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342429"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_刘德华(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342424"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_刘德华(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342424"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "庆余年(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352960"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "庆余年(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352960"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "纪晓岚(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342396"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "纪晓岚(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342396"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "新三国(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352944"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "新三国(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352944"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "新水浒(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342384"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "新水浒(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342384"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_斯坦森(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059588"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_斯坦森(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059588"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_小鬼头(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352963"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_小鬼头(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352963"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_八点档(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/880261"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_八点档(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=880261"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_蜘蛛侠(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059599"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_蜘蛛侠(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059599"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_贺岁片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11601986"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_贺岁片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11601986"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_功夫片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352941"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_功夫片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352941"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_黑帮片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11336719"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_黑帮片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11336719"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_丧尸片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059578"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_丧尸片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059578"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_灾难片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602075"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_灾难片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602075"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_谍战片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059587"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_谍战片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059587"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_战争片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059574"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_战争片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059574"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_犯罪片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352974"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_犯罪片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352974"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_古装片(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11336590"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_古装片(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11336590"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_高分动作(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352884"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_高分动作(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352884"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_动作电影(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602077"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_动作电影(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602077"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_搞笑喜剧(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342423"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_搞笑喜剧(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342423"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_喜剧专场(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11602044"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_喜剧专场(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11602044"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_欢笑影院(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352894"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_欢笑影院(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352894"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_不挤影院(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11352897"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_不挤影院(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11352897"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_国产悬疑(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342395"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_国产悬疑(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342395"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_快意江湖(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342435"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_快意江湖(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342435"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_黑帮斗争(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11342419"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_黑帮斗争(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11342419"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_嫣然影厅(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/11601977"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影_嫣然影厅(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=11601977"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影喜乐影院(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/21059580"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电影喜乐影院(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=21059580"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电视轮播1(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23903130"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电视轮播1(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23903130"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电视轮播2(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23740156"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "电视轮播2(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23740156"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "大唐双龙传(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23728674"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "大唐双龙传(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23728674"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "黄药师(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23824164"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "黄药师(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23824164"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "西游记1(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23728660"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "西游记1(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23728660"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "西游记2(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23735126"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "西游记2(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23735126"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "封神榜(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23749096"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "封神榜(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23749096"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆01(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23865152"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆01(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23865152"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆02(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23903196"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆02(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23903196"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆03(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23865058"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆03(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23865058"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆04(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23734183"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆04(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23734183"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆05(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23865036"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆05(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23865036"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆06(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23734246"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆06(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23734246"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆07(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23863796"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆07(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23863796"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆08(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23749083"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆08(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23749083"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆09(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23863804"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆09(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23863804"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆10(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23865142"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆10(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23865142"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆11(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23903183"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆11(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23903183"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆12(iptv)",
+    "url": "http://iptv.com.gerss.cn/huya/23734169"
+  },
+  {
+    "typename": "轮播频道",
+    "name": "堆堆12(cdn)",
+    "url": "http://cdn.jdshipin.com:8880/huya.php?id=23734169"
+  }
+]
